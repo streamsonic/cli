@@ -1,6 +1,6 @@
-# Soundtrap for Node.js
+# Soundtrap: Command-line interface
 
-Command-line for the Soundtrap API
+A utility app to perform API requests to a remote Soundtrap service using a command-line.
 
 ## Install
 
@@ -13,7 +13,6 @@ npm install soundtrap-cli
 
 Initiated by [Makis Tracend](http://github.com/tracend)
 
-Part of the [Soundtrap](http://soundtrap.net/docs#api) API
+Part of [Soundtrap](http://soundtrap.net/) by [K&D Interactive](http://kdi.co/)
 
-Released by [K&D Interactive](http://kdi.co)
-
+Released under the [MIT license](http://makesites.org/licenses/MIT)
