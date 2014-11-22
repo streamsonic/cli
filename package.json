@@ -1,7 +1,7 @@
 {
 	"name": "soundtrap-cli",
-	"description": "[WIP] Command line executable for Soundtrap",
-	"version": "0.0.1",
+	"description": "Command-line interface for Soundtrap",
+	"version": "0.1.0",
 	"author": "kdi",
 	"contributors": [
 		{ "name": "Makis Tracend", "email": "makis@kdi.co" }
